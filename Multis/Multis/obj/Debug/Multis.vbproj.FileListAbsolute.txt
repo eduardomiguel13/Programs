@@ -1,0 +1,15 @@
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\bin\Debug\Multis.exe.config
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\bin\Debug\Multis.exe
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\bin\Debug\Multis.pdb
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\bin\Debug\Multis.xml
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\obj\Debug\Multis.vbprojResolveAssemblyReference.cache
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\obj\Debug\Multis.Form1.resources
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\obj\Debug\Multis.Resources.resources
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\obj\Debug\Multis.vbproj.GenerateResource.Cache
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\obj\Debug\Multis.exe
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\obj\Debug\Multis.xml
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\obj\Debug\Multis.pdb
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\obj\Debug\Multis.email.resources
+c:\users\eduar\documents\visual studio 2015\Projects\Multis\Multis\obj\Debug\Multis.Tribo.resources
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\Multis\Multis\bin\Debug\Multis.mdb
+C:\Users\eduar\Documents\Visual Studio 2015\Projects\Multis\Multis\obj\Debug\Multis.contas.resources
